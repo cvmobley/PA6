@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Class1
+public class MainClass
 {
-	public Class1()
+	public static void Main(string[] args)
 	{
 
 	}
